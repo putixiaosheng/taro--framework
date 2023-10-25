@@ -11,7 +11,7 @@ import './index.css'
 
 export default {
   setup () {
-    const msg = ref('Hello world')
+    const msg = ref('Hello world3')
     return {
       msg
     }
